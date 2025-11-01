@@ -116,13 +116,6 @@
 
 ---
 
-## 🎯 BONUS (Optional)
-- Learn **FastAPI** for async microservices  
-- Contribute to **open-source Python repos** (e.g., add tests or fix small issues)  
-- Practice **LeetCode easy/intermediate** problems in Python for logic and speed  
-
----
-
 ### 💡 Recommended Tools
 - **Editor:** VS Code / PyCharm  
 - **Libraries:** Pandas, NumPy, Flask, SQLAlchemy, Requests, BeautifulSoup, pytest  
